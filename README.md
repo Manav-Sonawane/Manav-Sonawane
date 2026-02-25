@@ -12,11 +12,11 @@
 
 💼 Currently serving as **Ai+ Student Ambassador** at Ai+ Smartphone
 
-👨‍💻 **Technical Team Member** at CodeStorm - TSEC & **Contributor** at OSCG'26
+👨‍💻 **Ex-Technical Team Member** at CodeStorm - TSEC & **Contributor** at OSCG'26
 
 🔭 Building scalable web applications, AI-powered tools, and automation systems
 
-🌱 Currently exploring **Django**, **FastAPI**, **AI/ML**, and **Data Structures & Algorithms**
+🌱 Currently exploring **AI/ML**, and **Cloud Computing**
 
 ⚡ Passionate about creating intelligent, production-ready software solutions
 
